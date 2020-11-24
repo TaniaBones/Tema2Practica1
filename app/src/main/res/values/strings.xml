@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tema2Practica1</string>
+    <string name="estadoResumen">onResume</string>
+    <string name="textoBotonActivityMain">Haz clic para ir a la Activity 2</string>
+    <string name="textoActivity2">Activity 2</string>
+    <string name="textoActivityMain">Main Activity</string>
+</resources>
